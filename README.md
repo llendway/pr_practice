@@ -6,4 +6,4 @@ Hi, my name is Lisa, and I LOVE the {gganimate} package!
 
 It's Lisa again, and also love {tidyverse}.
 
-Let's try this.
+Let's try this again!
